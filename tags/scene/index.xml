@@ -13,7 +13,7 @@
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
       <guid>https://sviatoslav-lavrinchuk.github.io/test4/post/chapter-4/</guid>
-      <description>Plotly.d3.json(&#34;/plotly/test.json&#34;, function(err, fig) {Plotly.plot(&#39;\/plotly\/test.json&#39;, fig.data, fig.layout, {responsive: true});});
+      <description>Plotly.d3.json(&#34;https://sviatoslav-lavrinchuk.github.io/test3/test.json&#34;, function(err, fig) {Plotly.plot(&#39;https:\/\/sviatoslav-lavrinchuk.github.io\/test3\/test.json&#39;, fig.data, fig.layout, {responsive: true});});
 i love hugo))</description>
     </item>
     
